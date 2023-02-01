@@ -1,0 +1,10 @@
+- 수정된 내용은 계속 git 업로드
+
+로컬에서 정상적으로 동작한다면, url 수정 후에 업로드하기
+
+- cloudtype에서도 재배포해야함
+: https://port-0-day0131-1b5xkk2fldld8n8m.gksl2.cloudtype.app/
+
+- 포트폴리오도 cloudtype에 배포하기 (과제)
+
+svc.gksl2.cloudtype.app:31921
