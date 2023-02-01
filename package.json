@@ -2,10 +2,10 @@
   "name": "frontend0131",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "day10_0131/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app"
+    "start": "node day10_0131/app.js"
   },
   "author": "",
   "license": "ISC",
