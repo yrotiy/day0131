@@ -75,7 +75,7 @@ document.getElementById('submitBtn').addEventListener('click', ()=>{
     }
     console.log( user );
 
-    const url = 'https://port-0-frontend2301-cf24lcbkizu9.gksl2.cloudtype.app/register';
+    const url = 'https://port-0-day0131-1b5xkk2fldld8n8m.gksl2.cloudtype.app/register';
     fetchFunc.post( url, user ).then(res=>res.json())
     .then(res=>console.log(res))
 }) 
